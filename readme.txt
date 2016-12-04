@@ -1,0 +1,8 @@
+segment文件夹中为图像分割算法代码
+ImageData文件夹中为zhuo的文章中所使用的图像及其实验结果
+MyImage文件夹中为我们所使用的图像及实验结果
+Get_Flag.m用来对分割后的图像进行提取边缘
+testL0Smoothing.m及L0Smoothing.m用来进行L0梯度最小化
+defocus.m为我们的算法的执行文件
+defocusEstimation.m为zhuo等人的算法
+
